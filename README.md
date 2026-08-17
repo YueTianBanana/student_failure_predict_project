@@ -1,0 +1,2 @@
+# student_failure_predict_project
+AI探学营仓库
